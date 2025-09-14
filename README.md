@@ -2,7 +2,8 @@
 
 ```markdown
 ## 📌 ER Diagram
-<img width="817" height="502" alt="image" src="https://github.com/user-attachments/assets/cda996b5-5856-48a3-b969-e9cb4eb6f789" />
+<img width="770" height="523" alt="image" src="https://github.com/user-attachments/assets/5f5f2075-f13e-49e0-b176-6feabd7d4c32" />
+
 
 
 
